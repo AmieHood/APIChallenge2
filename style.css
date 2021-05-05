@@ -1,0 +1,41 @@
+body {
+    background-image: url(./assets/karen-kayser-rdtkE1fHi6c-unsplash.jpg);
+    background-size: cover;
+    color: #0b3d91;
+    text-align: center;
+    font-family: 'Zilla Slab', serif;
+}
+
+.heading {
+    padding: 20px;
+}
+
+h1 {
+    color: #0b3d91;
+}
+
+#submit {
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+.cardTitle {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Zilla Slab', serif;
+    font-weight: 800;
+}
+
+.card-text {
+    color: white;
+    background-color: black;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+.card-video-top {
+    width: 500px;
+    height: 300px;
+    padding: 20px 20px 20px 20px;
+    width: 80%;
+    border: 3px solid black
+}
